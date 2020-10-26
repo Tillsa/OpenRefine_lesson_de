@@ -243,7 +243,7 @@ Auf Undo und Redo klicken:
  
  - "Authors"-Spalte > "Edit cells" > "Transform"
  
- - Expression box: "value.match(/(.*),(.*)/)"
+ - Expression box: "value.match(/(.\*),(.\*)/)"
  
  - / bedeutet es werden Regular Expression verwendet, .* steht für eine beliebige anzahl an beliebigen Zeichen
  
