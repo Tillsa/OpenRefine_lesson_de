@@ -249,7 +249,7 @@ Auf Undo und Redo klicken:
  
  - wir erhalten ein Array bzw. Liste
  
- - In der Expression Box muss der Befehl erweitert werden : "value.match(/(.*),(.*)/).reverse().join(" ")"
+ - In der Expression Box muss der Befehl erweitert werden : "value.match(/(.\*),(.\*)/).reverse().join(" ")"
  
  ## Daten exportieren
  
