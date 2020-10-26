@@ -1,4 +1,4 @@
-# notes for open refine lesson
+# LC open refine lesson Deutsch-German
 
 ## Einführung
 
